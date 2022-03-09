@@ -1,0 +1,2 @@
+# SmartNinja
+Vježbe
